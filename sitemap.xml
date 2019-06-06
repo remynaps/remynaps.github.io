@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://remynaps.github.io/about/</loc>
+    <loc>https://remynaps.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/categories/</loc>
+    <loc>https://remynaps.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/contact/</loc>
+    <loc>https://remynaps.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/posts/</loc>
+    <loc>https://remynaps.github.io/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/posts/projects/</loc>
+    <loc>https://remynaps.github.io/posts/projects/</loc>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/projects/</loc>
+    <loc>https://remynaps.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/</loc>
+    <loc>https://remynaps.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/series/</loc>
+    <loc>https://remynaps.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://remynaps.github.io/tags/</loc>
+    <loc>https://remynaps.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
