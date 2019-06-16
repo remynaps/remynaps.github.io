@@ -6,9 +6,19 @@
     <description>Recent content on Remy Span</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://remynaps.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The internet!</title>
+      <link>https://remynaps.github.io/posts/projects/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://remynaps.github.io/posts/projects/</guid>
+      <description>Look mom! I&amp;rsquo;m on the internet!</description>
+    </item>
     
     <item>
       <title>About me</title>
@@ -35,15 +45,6 @@
       
       <guid>https://remynaps.github.io/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along! About 10% of my repositories are actually public. But i think i will showcase some private projects on this page.</description>
-    </item>
-    
-    <item>
-      <title>The internet!</title>
-      <link>https://remynaps.github.io/posts/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remynaps.github.io/posts/projects/</guid>
-      <description>Look mom! I&amp;rsquo;m on the internet!</description>
     </item>
     
   </channel>

@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://remynaps.github.io/posts/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remynaps.github.io/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remynaps.github.io/posts/projects/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://remynaps.github.io/about/</loc>
   </url>
   
@@ -16,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://remynaps.github.io/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://remynaps.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://remynaps.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,10 +44,6 @@
   <url>
     <loc>https://remynaps.github.io/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://remynaps.github.io/posts/projects/</loc>
   </url>
   
 </urlset>
