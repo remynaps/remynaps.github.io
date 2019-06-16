@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>About Hugo</title>
+      <title>About me</title>
       <link>https://remynaps.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://remynaps.github.io/about/</guid>
-      <description></description>
+      <description>Well, i guess i&amp;rsquo;ll eventually have to write something.</description>
     </item>
     
     <item>
@@ -25,16 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://remynaps.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://remynaps.github.io/posts/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://remynaps.github.io/posts/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description>Follow me on Github, @remynaps. Add me on Linkedin!</description>
     </item>
     
     <item>
@@ -43,7 +34,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://remynaps.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description>Nothing to see here&amp;hellip; Move along! About 10% of my repositories are actually public. But i think i will showcase some private projects on this page.</description>
+    </item>
+    
+    <item>
+      <title>The internet!</title>
+      <link>https://remynaps.github.io/posts/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remynaps.github.io/posts/projects/</guid>
+      <description>Look mom! I&amp;rsquo;m on the internet!</description>
     </item>
     
   </channel>
